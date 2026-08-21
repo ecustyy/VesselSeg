@@ -1,6 +1,6 @@
 # Direction-Aware Hybrid Architecture for Retinal Vessel Segmentation
 
-This is the official code for the paper **"Direction-Aware Hybrid Architecture with Cross-Scan State Space Model for Retinal Vessel Segmentation"**.
+This is the official code for the paper **"Direction-Aware Hybrid Architecture for Retinal Vessel Segmentation"**.
 
 The proposed method integrates a Vision Transformer (ViT) encoder with
 Transformer Direction Attention (DA_tr), a Direction Mamba bottleneck
